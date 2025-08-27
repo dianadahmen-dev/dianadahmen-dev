@@ -6,5 +6,3 @@
 [![Email](https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deine.email@example.com)
 
 **Software Developer** passionate about building innovative web solutions and diving deep into system architecture. I love turning complex problems into simple, beautiful solutions.
-
-<blockquote class="pix-embed-wrap"><div class="pix-embed-activity" data-id="sr216e3651c5faws3" data-width="166" data-height="206" data-type="art" data-theme="light" data-show-edit="1">Pixilart Embed</div></blockquote><script async="async" src="https://www.pixilart.com/js/embed.js?v=1.0.4"></script>
