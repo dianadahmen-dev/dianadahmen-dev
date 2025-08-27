@@ -7,8 +7,3 @@
 
 **Software Developer** passionate about building innovative web solutions and diving deep into system architecture. I love turning complex problems into simple, beautiful solutions.
 
-## 🎮 Try out my Interactive Terminal
-
-I've built a fun interactive terminal that mimics my portfolio. Go ahead, try some commands like `help`, `whoami`, or `ls`!
-
-[![Terminal](https://img.shields.io/badge/Launch_Terminal-000?style=for-the-badge&logo=windowsterminal&logoColor=white)](https://dein-benutzername.github.io/terminal/)
