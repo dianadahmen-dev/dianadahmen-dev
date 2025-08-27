@@ -7,3 +7,10 @@
 
 **Software Developer** passionate about building innovative web solutions and diving deep into system architecture. I love turning complex problems into simple, beautiful solutions.
 
+## 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=dein-username&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dein-username&layout=compact&theme=radical)
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=dein-username&theme=radical)
