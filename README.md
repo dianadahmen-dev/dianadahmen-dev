@@ -7,4 +7,3 @@
 
 **Software Developer** passionate about building innovative web solutions and diving deep into system architecture. I love turning complex problems into simple, beautiful solutions.
 
-<blockquote class="pix-embed-wrap"><div class="pix-embed-activity" data-id="sr5z4e5262d0f8aws3" data-width="250" data-height="250" data-type="art" data-theme="light" data-show-edit="1">Pixilart Embed</div></blockquote><script async="async" src="https://www.pixilart.com/js/embed.js?v=1.0.4"></script>
